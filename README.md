@@ -200,6 +200,8 @@ Begin
 End.
 ```
 
+---
+
 ### Code using the second variant:
 ``` pascal
 Program Lab8ArrayOfString;
